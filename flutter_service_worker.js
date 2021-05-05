@@ -3,11 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "9ef5220fa078c3765d8dbd62dc3c5514",
+  "assets/AssetManifest.json": "8a4cbb183932e49be2aa97c59c4192a9",
 "assets/assets/aaadgroup.png": "a72e83562fb157ef3fed20ae53dd32be",
 "assets/assets/bookmybook.png": "474c83490f04c46236a5418cca19da8d",
 "assets/assets/clubgamma.png": "4f904b01a099729adb7662939fe1fa9d",
+"assets/assets/cs2x.png": "92ecd4580b28a96369edfca6106319cb",
+"assets/assets/figma.png": "22337c961a524abc4ae46a89d55061fe",
 "assets/assets/github.png": "dda4ed64a67ac5d80e8eac27dfbe677e",
+"assets/assets/howdyArsh.png": "6a3d3e4f9f312349696934b275371422",
 "assets/assets/own2.jpg": "6a5f3796ffb618bc774ce856c011479a",
 "assets/assets/playstore.png": "36135474d06ce23f9a60e5db6e95d3d2",
 "assets/assets/portLogo.png": "48efc304ca867860a09ce5e9c829fd64",
@@ -41,9 +44,9 @@ const RESOURCES = {
 "favicon.png": "67d015c580732282085116d937bbcfa8",
 "icons/Icon-192.png.png": "c4434309332822c6f8309fa3253e9f57",
 "icons/Icon-512.png.png": "67d015c580732282085116d937bbcfa8",
-"index.html": "5cbee9dc98e67fb573965c75c8ef25cb",
-"/": "5cbee9dc98e67fb573965c75c8ef25cb",
-"main.dart.js": "28a25840ecdb03cad7b8206b769ff4a1",
+"index.html": "f9d685e44344fe531537cb58090aa43e",
+"/": "f9d685e44344fe531537cb58090aa43e",
+"main.dart.js": "8018e4f5a1238add08abcb94266fead7",
 "manifest.json": "3cbd0b34575b8da0221c79084f3f10ce",
 "style.css": "d807fc0bb306a888cf42e9f1a6bd1b14",
 "version.json": "426313f2f3133c2f20415344c4a22df3"
